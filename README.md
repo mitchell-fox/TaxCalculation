@@ -20,6 +20,7 @@ The Tests project holds our tests, both for mocking external services and intern
 
 Web API requires an appsettings.json with the following format. Be sure to populate the API key before use.
 
+```JSON
 {
   "Logging": {
     "LogLevel": {
@@ -34,3 +35,4 @@ Web API requires an appsettings.json with the following format. Be sure to popul
     "ApiKey": ""
   }
 }
+```
