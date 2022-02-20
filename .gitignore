@@ -350,4 +350,4 @@ MigrationBackup/
 .ionide/
 
 # Adding filter for appsettings.json
-appsettings.*.json
+appsettings*json
